@@ -8,7 +8,7 @@ O projeto é uma aplicação da tela do Netflix (com tema personalizado) que faz
 ## Layout Responsivo
 Utilizei variáveis para melhor personalização e medidas responsivas (Rem e percentual) para uma melhor experiência nos diferentes tipos de dispositivos.
 
-![Web](https://github.com/Geuel/horrorflix/blob/main/LICENSE)
+![Web](https://raw.githubusercontent.com/Geuel/assets/main/horrorflix/tela.png)
 
 # Tecnologias utilizadas
 - HTML / CSS / Javascript / JQuery
