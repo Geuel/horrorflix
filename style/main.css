@@ -1,2 +1,40 @@
+:root {
+  --red: #e50914;
+  --black: #141414;
+  --text: #aaa;
+  --text-mark: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
+  background: var(--black);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header .logo {
+  color: var(--red);
+  font-family: 'Arial Black', Times;
+  font-size: 2.5rem;
+  margin-left: 0.3125rem;
+}
+
+header nav a {
+  text-decoration: none;
+  color: var(--text);
+  margin-right: 0.625rem;
+}
+
+header nav a:hover {
+  color: var(--text-mark);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
